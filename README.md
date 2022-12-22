@@ -1,4 +1,4 @@
 # css.odev.1
 Kodluyoruz front-end eğitimi kapsamında yağtığım alıştırmalar
-![alt text](http://url/to/img.png)
+http://127.0.0.1:5500/products.html
 
